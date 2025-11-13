@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gravel",
+    "name": "Gravel",
+    "density": 1.5,
+    "category": "aggregate"
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "density": 1.35,
+    "category": "aggregate"
+  },
+  {
+    "id": "topsoil",
+    "name": "Topsoil",
+    "density": 1.2,
+    "category": "soil"
+  },
+  {
+    "id": "concrete",
+    "name": "Concrete",
+    "density": 2.4,
+    "category": "concrete"
+  },
+  {
+    "id": "mulch",
+    "name": "Mulch",
+    "density": 0.8,
+    "category": "organic"
+  }
+]

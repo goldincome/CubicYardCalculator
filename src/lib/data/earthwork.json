@@ -1,0 +1,32 @@
+[
+  {
+    "id": "clay",
+    "name": "Clay",
+    "bulkingFactor": 1.3,
+    "compactionFactor": 0.8
+  },
+  {
+    "id": "soil",
+    "name": "Soil",
+    "bulkingFactor": 1.25,
+    "compactionFactor": 0.9
+  },
+  {
+    "id": "sand",
+    "name": "Sand",
+    "bulkingFactor": 1.1,
+    "compactionFactor": 0.95
+  },
+  {
+    "id": "gravel",
+    "name": "Gravel",
+    "bulkingFactor": 1.15,
+    "compactionFactor": 0.92
+  },
+  {
+    "id": "rock",
+    "name": "Rock",
+    "bulkingFactor": 1.5,
+    "compactionFactor": 0.75
+  }
+]
